@@ -6,7 +6,7 @@ Built with HTML5, CSS3, and vanilla JavaScript. Data is handled through JSON fil
 
 This was a group project completed as part of YouthCode Cohort 18 at Life Choices Academy, built by a team of five. This repo is my personal copy of our work, kept here to preserve the project and document my part in it.
 
-Live demo: _[link coming soon]_
+Live demo: https://nonhlanhlakunene.github.io/moderntech-hr-dashboard/
 
 ## My contribution
 
